@@ -1,0 +1,60 @@
+{
+  "note": "Editorial stock photographs used for mood only. None shows Charlie's Pool Service, its owner, staff, customers, equipment or completed work.",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/"
+  },
+  "photos": [
+    {
+      "file": "assets/images/yellow-ring.jpg",
+      "placement": "Hero circle",
+      "source": "Pexels",
+      "photoId": 11322426,
+      "title": "Yellow Swim Ring on Swimming Pool",
+      "photographer": "Albin Biju",
+      "page": "https://www.pexels.com/photo/yellow-swim-ring-on-swimming-pool-11322426/",
+      "originalFile": "https://images.pexels.com/photos/11322426/pexels-photo-11322426.jpeg",
+      "derivation": "Resized to 1200x1600 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/gold-float.jpg",
+      "placement": "Services photo row",
+      "source": "Pexels",
+      "photoId": 34193740,
+      "title": "Bright Yellow Inflatable Ring in Blue Pool",
+      "photographer": "ebrar",
+      "page": "https://www.pexels.com/photo/bright-yellow-inflatable-ring-in-blue-pool-34193740/",
+      "originalFile": "https://images.pexels.com/photos/34193740/pexels-photo-34193740.jpeg",
+      "derivation": "Resized to 1400x1050 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/pool-ladder.jpg",
+      "placement": "Services photo row",
+      "source": "Pexels",
+      "photoId": 20774776,
+      "title": "Ladder in Water at Pool",
+      "photographer": "Komet Flicker",
+      "page": "https://www.pexels.com/photo/ladder-in-water-at-pool-20774776/",
+      "originalFile": "https://images.pexels.com/photos/20774776/pexels-photo-20774776.jpeg",
+      "derivation": "Resized to 1400x906 and re-compressed as JPEG. No other edits."
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Shrikhand",
+      "files": [
+        "assets/fonts/shrikhand-normal-400.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "DM Sans",
+      "files": [
+        "assets/fonts/dm-sans-normal-400_700.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
